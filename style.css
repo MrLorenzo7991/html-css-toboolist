@@ -80,3 +80,29 @@ body{
         text-align: center;
         color: red;
     }
+    .box{
+        width: auto;
+        height: auto;
+        padding: 7px;
+        border-radius: 15px;
+        color: white;
+        font-size: small;
+    }
+    .editorial{
+        background-color: rgb(41, 111, 218);
+    }
+    .q1{
+        background-color: blueviolet;
+    }
+    .recruting{
+        background-color: aquamarine;
+    }
+    .mobile{
+        background-color: goldenrod;
+    }
+    .website {
+        background-color: palevioletred;
+    }
+    .sales{
+        background-color: greenyellow;
+    }
