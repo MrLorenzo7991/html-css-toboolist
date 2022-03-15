@@ -61,10 +61,12 @@ body{
     }
     .liste{
        list-style: none;
+       line-height: 40px;
     }
-    .interne{
-        line-height: 40px;
-    }
+    .titoli{
+        font-size: x-large;
+        font-weight: bold;
+    }    
     .ceck{
         height: 25px;
         width: 25px;
