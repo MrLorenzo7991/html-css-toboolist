@@ -7,8 +7,8 @@ body{
 }
 /*Header*/
     #logo-container{
-        height: 80px;
-        line-height: 80px;
+        height: 60px;
+        line-height: 60px;
         background-color: white;
     }
     #logo{
@@ -59,8 +59,11 @@ body{
         height: auto;
         background-color: white;
     }
-   .liste{
+    .liste{
        list-style: none;
+    }
+    .interne{
+        line-height: 40px;
     }
     .ceck{
         height: 25px;
@@ -69,6 +72,8 @@ body{
         border-radius: 50%;
         display: inline-block;
         text-align: center;
+        vertical-align: middle;
+        line-height: normal;
         color: green;
     }
     .ceck-neg{
@@ -78,8 +83,11 @@ body{
         border-radius: 50%;
         display: inline-block;
         text-align: center;
+        vertical-align: middle;
+        line-height: normal;
         color: red;
     }
+/*Tag lista*/
     .box{
         width: auto;
         height: auto;
@@ -87,6 +95,7 @@ body{
         border-radius: 15px;
         color: white;
         font-size: small;
+        vertical-align: middle;
     }
     .editorial{
         background-color: rgb(41, 111, 218);
