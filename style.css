@@ -1,0 +1,22 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background-color: aliceblue;
+}
+/*Header*/
+    #logo-container{
+        height: 80px;
+        line-height: 80px;
+        background-color: white;
+    }
+    #logo{
+        height: 100%;
+        vertical-align: middle;
+    }
+    #titolo{
+        font-size: 5em;
+        vertical-align: middle;
+        font-family: sans-serif;
+        font-weight: bold;
+    }
